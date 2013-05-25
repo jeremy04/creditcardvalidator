@@ -6,7 +6,6 @@ require_relative 'lib/amex_card'
 require_relative 'lib/visa_card'
 require_relative 'lib/master_card'
 require_relative 'lib/discover_card'
-require 'pp'
 
 require 'active_support/inflector'
 
