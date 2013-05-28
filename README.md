@@ -1,8 +1,6 @@
-Credit Card Validtor
+Credit Card Validator
 ===================
 
 $ bundle install
-
-To run:
 $ ruby validator.rb < input
 
